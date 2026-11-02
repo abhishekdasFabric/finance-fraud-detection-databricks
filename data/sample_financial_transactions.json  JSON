@@ -1,0 +1,7 @@
+[
+  {"transaction_id": "FT-8001", "customer_id": "CUST-101", "account_type": "CHECKING", "transaction_amount": 150.00, "foreign_country": 0, "timestamp": "2025-01-15T10:00:00Z"},
+  {"transaction_id": "FT-8002", "customer_id": "CUST-102", "account_type": "SAVINGS", "transaction_amount": 14500.00, "foreign_country": 1, "timestamp": "2025-01-15T10:05:00Z"},
+  {"transaction_id": "FT-8003", "customer_id": "CUST-102", "account_type": "SAVINGS", "transaction_amount": 12000.00, "foreign_country": 1, "timestamp": "2025-01-15T10:06:30Z"},
+  {"transaction_id": "FT-8004", "customer_id": "CUST-103", "account_type": "CHECKING", "transaction_amount": 45.99, "foreign_country": 0, "timestamp": "2025-01-15T10:12:00Z"},
+  {"transaction_id": "FT-8005", "customer_id": "CUST-102", "account_type": "SAVINGS", "transaction_amount": 18900.00, "foreign_country": 1, "timestamp": "2025-01-15T10:14:00Z"}
+]
